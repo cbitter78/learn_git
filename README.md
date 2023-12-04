@@ -7,3 +7,8 @@ Intimidating‽ Well, yes of course it is!  When I first started out [version co
 What you need to understand is. You do not have to learn all of git to be very successful. I have been working with it sense it was released and I only use a small subset of commands in my daily work.  Most people use less than ten commands.  If someone told me I could learn ten commands and be fine, I would have ditch SVN much sooner.
 
 This repository exists to help people who aks me for help with git.  It is part [reference](./git/README.md#reference) and part practical work.  There are two parts. [git](./git/) and [github](./github/).  They go together, and you will find that some people intermingle them.  However for my sanity in git we will cover install, concept, commands, tips, tricks. or anything that happens on your computer.  In the github section we will cover how you work with others.
+
+
+## Git
+
+Take a look at the [./git/](./git) folder
